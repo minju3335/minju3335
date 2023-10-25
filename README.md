@@ -1,6 +1,6 @@
 <h3 align="left">👋 Hi I'm Minju 👋</h3>
 
-[![Gmail Badge](https://img.shields.io/badge/minju3335@gmail.com-EA4335?style=flat-square&logo=Linkedin&logoColor=white&link=mailto:minju3335@gmail.com)](mailto:minju3335@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/minju3335@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:minju3335@gmail.com)](mailto:minju3335@gmail.com)
 [![Blog Badge](https://img.shields.io/badge/Blog-pink?style=flat-square&logo=undertale&logoColor=white&link=https://blog.naver.com/kimminju3335)](https://blog.naver.com/kimminju3335)
 - I'm in thrid year of university
 - I'm learning at the Multi-Campus
@@ -10,7 +10,7 @@
 
 <h3 align="left">✨ Learning Language ✨ </h3>
 
-![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Linkedin&logoColor=white)
+![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![R Badge](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white)
 	
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
